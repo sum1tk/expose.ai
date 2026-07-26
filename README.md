@@ -9,7 +9,7 @@
 Digital fraud is evolving rapidly with sophisticated fake websites, phishing domains, and malicious apps that closely mimic legitimate brands. Traditional detection methods are reactive and rely on user reports, leaving a critical gap in proactive protection.
 
 ## 💡 Our Solution
-
+![Poster](assets/SUMIT_KOTHARI_MSC_Data_Science_Semester_1%20(1)_1.jpg)
 A **hybrid AI system** that combines three powerful detection methods:
 
 1. **🤖 ML-Based Phishing Detection** - Advanced feature engineering + LGBM
